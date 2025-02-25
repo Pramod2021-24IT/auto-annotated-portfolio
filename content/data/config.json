@@ -73,7 +73,8 @@
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/Pramod2021-24IT",
-                "altText": "GitHub"
+                "altText": "GitHub",
+                "showIcon": true
             }
         ],
         "contacts": {
