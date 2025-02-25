@@ -60,7 +60,7 @@
                 "label": "Contact",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": "",
-                "showIcon": false
+                "showIcon": true
             },
             {
                 "type": "Link",
