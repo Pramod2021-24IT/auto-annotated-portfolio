@@ -66,7 +66,7 @@
             {
                 "type": "Social",
                 "label": "Youtube",
-                "altText": "",
+                "altText": "YT",
                 "url": "https://www.youtube.com/@Pramod_Sir_Gkp",
                 "icon": "youtube",
                 "elementId": ""
