@@ -49,9 +49,9 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/https://x.com/pramod_mau38797?t=gveyrM6_0ZfPgpHv2TEtbQ&s=08",
+                "label": "X",
+                "altText": "Twitter(X)",
+                "url": "https://x.com/pramod_mau38797",
                 "icon": "twitter",
                 "elementId": ""
             }
