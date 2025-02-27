@@ -16,7 +16,9 @@ sections:
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
-    subtitle: "Pramod Kumar Maurya\_B.Tech in Information Technology | Data Science Enthusiast | Tech Professional"
+    subtitle: >-
+      B.Tech in Information Technology | Data Science Enthusiast | Tech
+      Professional
     styles:
       self:
         height: auto
