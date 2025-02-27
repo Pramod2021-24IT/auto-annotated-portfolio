@@ -60,7 +60,7 @@
                 "label": "Contact",
                 "url": "mailto:pramod.maurya12321@gmail.com",
                 "altText": "",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "mail"
             },
             {
