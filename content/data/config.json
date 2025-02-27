@@ -48,7 +48,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Pramod_Pic.jpg",
-            "altText": "altText of the image",
+            "altText": "Pramod DP",
             "caption": "Caption of the image",
             "elementId": ""
         }
