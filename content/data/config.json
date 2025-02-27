@@ -54,6 +54,22 @@
                 "url": "https://x.com/pramod_mau38797",
                 "icon": "twitter",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.facebook.com/share/1CymjAcn3c/",
+                "icon": "facebook",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "YouTube",
+                "altText": "YT",
+                "url": "https://www.youtube.com/@Pramod_Sir_Gkp",
+                "icon": "youtube",
+                "elementId": ""
             }
         ],
         "styles": {
