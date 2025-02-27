@@ -62,6 +62,14 @@
                 "url": "https://www.facebook.com/share/1CymjAcn3c/",
                 "icon": "facebook",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.youtube.com/@Pramod_Sir_Gkp",
+                "icon": "youtube",
+                "elementId": ""
             }
         ],
         "styles": {
