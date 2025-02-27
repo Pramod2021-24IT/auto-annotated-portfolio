@@ -38,6 +38,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/Pramod2021-24IT",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/pramodmaurya9621/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
