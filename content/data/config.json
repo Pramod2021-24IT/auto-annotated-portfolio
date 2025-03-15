@@ -112,7 +112,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "+919621957806",
+            "phoneNumber": "+91 9621957806",
             "phoneAltText": "My phone number",
             "email": "pramod.maurya12321@gmail.com",
             "emailAltText": "My email",
