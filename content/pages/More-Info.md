@@ -7,9 +7,15 @@ sections:
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
-    text: >-
+    text: >
       Start adding sections by clicking the + button on the page or through the
       sidebar.
+
+
+      #
+
+
+      Hello
     elementId: ''
     styles:
       self:
