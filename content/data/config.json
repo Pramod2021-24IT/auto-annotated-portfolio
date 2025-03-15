@@ -76,13 +76,6 @@
             "self": {
                 "width": "wide"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/Pramod_Pic.jpg",
-            "altText": "Pramod DP",
-            "caption": "Pramod Pic",
-            "elementId": ""
         }
     },
     "footer": {
