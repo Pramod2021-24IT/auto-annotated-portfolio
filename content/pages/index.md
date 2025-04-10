@@ -19,8 +19,8 @@ sections:
     subtitle: B.Tech in Information Technology Data Science Enthusiast Tech Professional
     styles:
       self:
-        height: auto
-        width: wide
+        height: screen
+        width: full
         margin:
           - mt-0
           - mb-0
@@ -34,6 +34,8 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderStyle: solid
+        borderWidth: 1
       title:
         textAlign: left
       subtitle:
