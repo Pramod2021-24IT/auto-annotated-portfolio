@@ -19,7 +19,7 @@ sections:
     subtitle: B.Tech in Information Technology Data Science Enthusiast Tech Professional
     styles:
       self:
-        height: auto
+        height: screen
         width: full
         margin:
           - mt-0
